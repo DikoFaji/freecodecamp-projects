@@ -1,0 +1,91 @@
+.profile-image-size{
+	margin-top: 5%;
+	width: 80%;
+	float: right;
+}
+
+h1{
+	color: white;
+	background-color: black;
+	font-weight: bolder;
+	padding-bottom: 0px;
+}
+
+h2{
+	font-weight: bold;
+}
+
+h3{
+	font-size: 16px;
+	font-weight: bold;
+}
+h4{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.profile-caption{
+	padding: 5px;
+	padding-left: 15px;
+	margin: 0px;
+	background-color: black;
+	color: white;
+	font-size: 10px;
+}
+
+.text-format, li{
+	font-size: 13px;
+}
+
+.justify{
+	text-align: justify;
+}
+
+.bgcolor{
+	background-color: green;
+}
+
+.yellow{
+	color: yellow;
+}
+.blue{
+	color: blue;
+}
+.red{
+	color: red;
+}
+
+.quote-format{
+
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Arial;
+	padding-top: 5px;
+}
+.quote-name-size{
+	font-size: 15px;
+	font-weight: bold;
+	text-align: right;
+	text-indent: 100px;
+	color: green;
+}
+
+.title-spacing{
+	padding-left: 15px;
+}
+
+.horizontal-line{
+	padding-bottom: 15px;
+	border-bottom: medium solid rgb(0,200,0);
+
+}
+
+.right-margin{
+	padding-right: 70px;
+}
+
+footer{
+	background-color: green;
+	text-align: center;
+	color: white;
+}
